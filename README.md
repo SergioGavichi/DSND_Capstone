@@ -7,7 +7,7 @@ The full blog post explaining the process and results achieved is accessible her
 
 
 ### Data
-The full dataset is 12GB, of which we analyze a mini subset (128MB).
+The full dataset is 12GB, of which we analyze a mini subset (126MB).
 The data consists of logs of users interactions with the Sparkify service in json format.
 
 ### Required Packages
@@ -17,11 +17,9 @@ The data consists of logs of users interactions with the Sparkify service in jso
 - numpy
 
 ### Repository Content
-html
-ipynb
-
-
-
+- sparkify.html: html export of the jupyter notebook
+- sparkify.ipynb: jupyter notebook with all the steps from data exploration & preparation to modeling & evaluation
+- mini_sparkify_event_data.zip: zip of the json data for the subset of data
 
 ### Licensing, Authors, Acknowledgements
 All data is provided by Udacity as part of the Capstone project using Spark.
