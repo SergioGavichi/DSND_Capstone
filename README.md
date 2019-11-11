@@ -5,6 +5,8 @@ This is the repository for the final project of the Udacity Data Scientist for E
 In this project we use the PySpark SQL and MLlib libraries to go through the entire data science process to predict churn of users for a fictional music streaming service called 'Sparkify'.
 The full blog post explaining the process and results achieved is accessible here
 
+This is a great project to get started with Spark and the world of big data processing.
+
 
 ### Data
 The full dataset is 12GB, of which we analyze a mini subset (126MB).
